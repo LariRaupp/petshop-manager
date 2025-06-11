@@ -1,50 +1,44 @@
-# 🐾 Gerenciador de Produtos do Pet Shop  
+# 🐾 Pet Shop Product Manager
 
-Este é um **projeto de estudo** desenvolvido para praticar conceitos de **React, JavaScript moderno (ES6+) e Programação Orientada a Objetos (OOP)**.  
+This is a **study project** developed to practice **React, modern JavaScript (ES6+), and Object-Oriented Programming (OOP)** concepts.
 
-## 📌 Funcionalidades  
+## 📌 Features
 
-✔️ Adicionar produtos ao carrinho através de um menu dropdown  
-✔️ Aumentar ou diminuir a quantidade de produtos  
-✔️ Remover produtos individualmente  
-✔️ Exibição dinâmica do total da compra  
-✔️ Interface estilizada e responsiva  
+✔️ Add products to the cart via dropdown menu  
+✔️ Increase or decrease product quantity  
+✔️ Remove individual products  
+✔️ Dynamic total price display  
+✔️ Styled and responsive interface
 
-## 💻 Tecnologias Utilizadas  
+## 💻 Technologies Used
 
 - **React.js** ⚛️  
 - **JavaScript (ES6+)**  
-- **CSS responsivo**  
+- **Responsive CSS**
 
-## 🏗 Conceitos Aplicados  
+## 🏗 Key Concepts Applied
 
-✔️ **OOP (Encapsulamento, Polimorfismo, Classes e Objetos)**  
-✔️ **Manipulação de Arrays e Estados com React (`useState`)**  
-✔️ **Eventos e Atualização de Estado**  
-✔️ **Estilização com CSS moderno e responsivo**  
+✔️ **OOP (Encapsulation, Polymorphism, Classes and Objects)**  
+✔️ **Array handling and state management with React (`useState`)**  
+✔️ **Event handling and state updates**  
+✔️ **Modern and responsive CSS styling**
 
-## 📸 Imagens
+## 📸 Images
 
-✔️ **As imagens utilizadas foram geradas por inteligência artificial**
+✔️ **All images were generated using artificial intelligence**
 
-## 🚀 Como Executar  
+## 🚀 How to Run
 
-1️⃣ Clone este repositório:  
+You can run the project locally:
 
-git clone https://github.com/seu-usuario/petshop-manager.git
+- Clone the repository and install dependencies
+- Run `npm start` to launch the application
 
-2️⃣ Instale as dependências:
-
-cd petshop-manager  
-npm install
-
-3️⃣ Inicie o projeto:
-
-npm start
-
-A aplicação será aberta em http://localhost:3000
+The app will be available at: `http://localhost:3000`
 
 ## 🔗 Deploy
-**Você pode acessar a versão hospedada no Vercel [aqui](https://petshop-manager-zeta.vercel.app/)**
 
-## 📌 Este projeto foi criado para fins didáticos e pode ser expandido no futuro.
+You can access the hosted version on Vercel:  
+🌐 [https://petshop-manager-zeta.vercel.app/](https://petshop-manager-zeta.vercel.app/)
+
+## 📌 This is a didactic project and may be expanded in the future.
